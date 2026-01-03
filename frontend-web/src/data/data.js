@@ -8,6 +8,7 @@ import atala from "@/assets/atala.jpg";
 import aulia from "@/assets/aulia.jpg";
 import rillah from "@/assets/rillah.jpg";
 import akbar from "@/assets/akbar.jpg";
+import faiz from "@/assets/faiz.jpg";
 import {
   Code2,
   Palette,
@@ -88,6 +89,7 @@ const members = [
     instagram: "instagram.com/afaizyr",
     linkedin: "linkedin.com/in/afaizyr/ ",
     github: "github.com/FaizZzhue",
+    image: faiz,
   },
   {
     name: "Akbar Kurniawan",
